@@ -1,6 +1,6 @@
 # Hei 👋
 
-Kiinnostukseni kohteita ovat ohjelmointi, tietoturva ja erilaisten käytännön IT-ongelmien ratkominen.  
+Kiinnostukseni kohteita ovat ohjelmointi, low-code, tietoturva ja erilaisten käytännön IT-ongelmien ratkominen.  
 Rakennan mielelläni pieniä työkaluja ja kokeiluprojekteja, joilla selvitän, miten asiat toimivat käytännössä.
 
 Tämä profiili kokoaa yhteen harjoitusprojekteja, testejä ja muita pieniä kokonaisuuksia, joiden avulla kehityn eteenpäin.  
